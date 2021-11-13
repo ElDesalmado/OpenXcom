@@ -68,8 +68,10 @@ bin/TFTD
 deps/
 docs/html/
 build/
+cmake-build*/
 Dependencies/
 *.*.user
+.idea/
 #Ignore Vim swap files
 *.swp
 #Ignore NetBeans project directory
